@@ -1,0 +1,14 @@
+apn-server/
+├── server.js
+├── package.json
+└── Dockerfile
+
+
+
+git remote add origin git@github.com:<omauseri>/<repo>.git
+git remote add origin https://github.com/Artokalevi/APNtest.git
+
+git remote set-url origin https://username:password@github.com/organization/repo.git
+git remote set-url origin https://arto.tyrvainen@gmail.com:dynneQ-hunhu6-goghiq@github.com/Artokalevi/APNtest.git
+
+git remote set-url origin 
